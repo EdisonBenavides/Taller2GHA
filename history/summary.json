@@ -40,18 +40,20 @@
     "url": "https://www.spacex.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.spacex.com.ico",
     "slug": "space-x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 409,
-    "timeWeek": 409,
-    "timeMonth": 409,
-    "timeYear": 409,
-    "dailyMinutesDown": {}
+    "time": 389,
+    "timeDay": 389,
+    "timeWeek": 389,
+    "timeMonth": 389,
+    "timeYear": 389,
+    "dailyMinutesDown": {
+      "2025-01-30": 0
+    }
   },
   {
     "name": "Nasa -- Broken site",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 83,
+      "2025-01-30": 527,
       "2025-01-29": 529
     }
   }
